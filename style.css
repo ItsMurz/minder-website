@@ -1,0 +1,59 @@
+.navbar :hover {
+    color: rgb(83, 239, 83);
+}
+
+
+.btn {
+    background-color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    border-radius: 16px;
+}
+
+.btn:hover {
+    color: black;
+    background-color: rgb(83, 239, 83);
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 99;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    padding: 30px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+#myBtn:hover {
+    background-color: rgb(83, 239, 83);
+    color: black;
+}
+
+.text1 {
+    color: rgb(83, 239, 83);
+}
+
+#smalltext {
+    font-size: x-large;
+}
+
+.team1 {
+    filter: grayscale(100);
+    border-radius: 16px;
+}
+
+.team1:hover {
+    filter: grayscale(0);
+}
+
+.form-check-input {
+    color: rgb(83, 239, 83);
+
+}
+
